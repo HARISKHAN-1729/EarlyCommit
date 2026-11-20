@@ -1,3 +1,6 @@
+
+#In progress
+
 # EarlyCommit
 
 **Calibrated word-by-word commitment for robots acting before you finish speaking.**
