@@ -315,4 +315,3 @@ All randomness is seeded (scenes and instructions: seed per split; augmentation:
 
 **Scope:** the evaluation uses templated tabletop instructions with simulated recognition slips; there is no user study and no physical robot.
 
-**Anonymity:** this archive is anonymised for double-blind review.
